@@ -1,2 +1,2 @@
 # python
-Data Science and Visualization projects developed with Python
+Financial Data Science project created with python using Spyder, Streamlit, Jupyter Notebook etc. 
